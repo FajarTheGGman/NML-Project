@@ -1,0 +1,12 @@
+{
+    "name": "NML Project",
+    "description": "Application for package delivery",
+    "env": {
+        "DATABASE": {
+            "value": "Your mongodb url"
+        },
+        "SECRET": {
+            "value": "sendmypacket"
+        }
+    }
+}
