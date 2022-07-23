@@ -1,0 +1,19 @@
+# Software Requirements
+- Nodejs
+- MongoDB
+- Expo App (android)
+
+# Project Installations
+
+[ Server ]
+npm install
+npm install 192.168.1.12 / Sesuaikan Dengan IP Lokal
+
+[ Android ]
+cd Android
+npm install -g expo-cli
+npm install
+npm start
+
+[ App Expo ]
+Buka aplikasi Expo lalu tunggu sampai Project NML Express tampil di layar
