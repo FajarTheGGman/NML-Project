@@ -1,5 +1,5 @@
 {
-    "name": "NML Project",
+    "name": "nml-project",
     "description": "Application for package delivery",
     "env": {
         "DATABASE": {
